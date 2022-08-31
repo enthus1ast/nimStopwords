@@ -1,6 +1,6 @@
 version     = "0.0.0"
-author      = "Your name"
-description = "Description of your library"
+author      = "enthus1ast"
+description = "Identify 'stopWords' "
 license     = "MIT"
 
 srcDir = "src"
